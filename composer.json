@@ -1,0 +1,10 @@
+{
+    "name": "weboccult/inspire",
+    "description": "My First Package",
+    "authors": [
+        {
+            "name": "rise4bux"
+        }
+    ],
+    "require": { "guzzlehttp/guzzle": "^7.0.1"}
+}
