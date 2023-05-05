@@ -6,5 +6,19 @@
             "name": "rise4bux"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Weboccult\\Inspire\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Weboccult\\Inspire\\Providers\\InspirationProvider"
+            ]
+           
+        }
+    },
     "require": { "guzzlehttp/guzzle": "^7.0.1"}
 }
+

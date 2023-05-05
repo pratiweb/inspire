@@ -1,5 +1,5 @@
 <?php 
-namespace Fhsinchy\Inspire\Providers;
+namespace Weboccult\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

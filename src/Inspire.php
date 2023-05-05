@@ -1,6 +1,6 @@
 <?php
 
-namespace Fhsinchy\Inspire;
+namespace Weboccult\Inspire;
 
 use Illuminate\Support\Facades\Http;
 
